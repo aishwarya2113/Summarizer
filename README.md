@@ -1,2 +1,1 @@
-# Summarizer
-# Summarizer
+Summarizer is a sleek and efficient React application designed to distill the main points from any webpage, providing users with concise summaries. Utilizing the power of Tailwind CSS for a clean and responsive UI, and integrating with RapidAPI for advanced summarization capabilities, this app enhances productivity by quickly extracting essential information from lengthy articles, reports, or web pages.
